@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(16,49): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(17,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(104,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(126,53): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(151,37): warning C4047: 'function': 'int *' differs in levels of indirection from 'void (__cdecl *)(Avion *,int,float,Avion **,int *)'
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(151,37): warning C4024: 'dezalocare': different types for formal and actual parameter 2
+C:\Users\stud\source\repos\SEM2_SDD\SEM2_SDD\Source.c(117): warning C4715: 'getPrimulAvionDupaCompanie': not all control paths return a value
+  SEM2_SDD.vcxproj -> C:\Users\stud\source\repos\SEM2_SDD\x64\Debug\SEM2_SDD.exe

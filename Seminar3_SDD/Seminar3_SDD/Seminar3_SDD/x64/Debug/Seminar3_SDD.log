@@ -1,0 +1,12 @@
+﻿  Source.c
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(31,18): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(31,18): warning C4024: 'fgets': different types for formal and actual parameter 1
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(33,19): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(33,19): warning C4024: 'strtok': different types for formal and actual parameter 1
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(36,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(36,21): warning C4024: 'strtok': different types for formal and actual parameter 1
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(39,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(39,21): warning C4024: 'strtok': different types for formal and actual parameter 1
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(48,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+T:\Seminar3_SDD\Seminar3_SDD\Seminar3_SDD\Source.c(48,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'char *'
+  Seminar3_SDD.vcxproj -> T:\Seminar3_SDD\Seminar3_SDD\x64\Debug\Seminar3_SDD.exe

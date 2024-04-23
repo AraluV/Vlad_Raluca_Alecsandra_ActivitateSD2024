@@ -1,0 +1,6 @@
+﻿  Seminar6SDD.c
+C:\Users\stud\Desktop\Seminar6SDD\Seminar6SDD\Seminar6SDD.c(44,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\stud\Desktop\Seminar6SDD\Seminar6SDD\Seminar6SDD.c(45,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\stud\Desktop\Seminar6SDD\Seminar6SDD\Seminar6SDD.c(69,19): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\stud\Desktop\Seminar6SDD\Seminar6SDD\Seminar6SDD.c(128,60): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar6SDD.vcxproj -> C:\Users\stud\Desktop\Seminar6SDD\x64\Debug\Seminar6SDD.exe

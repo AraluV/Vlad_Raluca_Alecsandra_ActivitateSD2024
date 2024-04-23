@@ -1,0 +1,4 @@
+﻿  Source.c
+T:\seminar9_sdd\seminar9\seminar9\Source.c(85,72): warning C4474: 'printf' : too many arguments passed for format string
+T:\seminar9_sdd\seminar9\seminar9\Source.c(85,72): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  seminar9.vcxproj -> T:\seminar9_sdd\seminar9\x64\Debug\seminar9.exe

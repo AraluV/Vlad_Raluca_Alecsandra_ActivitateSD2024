@@ -1,0 +1,7 @@
+﻿  Source.c
+T:\sem13\sdd_13\sdd_13\Source.c(74,38): warning C4047: 'function': 'NodPrincipal *' differs in levels of indirection from 'NodPrincipal **'
+T:\sem13\sdd_13\sdd_13\Source.c(74,38): warning C4024: 'cautareNod': different types for formal and actual parameter 1
+T:\sem13\sdd_13\sdd_13\Source.c(75,37): warning C4047: 'function': 'NodPrincipal *' differs in levels of indirection from 'NodPrincipal **'
+T:\sem13\sdd_13\sdd_13\Source.c(75,37): warning C4024: 'cautareNod': different types for formal and actual parameter 1
+T:\sem13\sdd_13\sdd_13\Source.c(70): warning C4715: 'inserareSecundar': not all control paths return a value
+  sdd_13.vcxproj -> T:\sem13\sdd_13\x64\Debug\sdd_13.exe
